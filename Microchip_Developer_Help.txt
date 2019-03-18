@@ -1,0 +1,1 @@
+http://microchipdeveloper.com/32arm:samd21-sercom-spi-master-configuration#toc4
